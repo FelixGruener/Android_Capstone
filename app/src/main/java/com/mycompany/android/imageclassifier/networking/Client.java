@@ -16,7 +16,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by delaroy on 5/18/17.
+ * Created by felix on 5/18/17.
  */
 public class Client {
     public static <S> S createService(Class<S> serviceClass, String baseUrl) {

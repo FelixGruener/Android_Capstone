@@ -23,7 +23,7 @@ import static com.mycompany.android.imageclassifier.data.ClassificationDatabaseC
 import static com.mycompany.android.imageclassifier.data.ClassificationDatabaseContract.ClassificationEntry.COLUMN_LONGITUDE;
 
 /**
- * Created by delaroy on 9/5/18.
+ * Created by felix on 9/5/18.
  */
 
 public class ClassifierAdapter extends RecyclerView.Adapter<ClassifierAdapter.ClassifierViewHolder> {

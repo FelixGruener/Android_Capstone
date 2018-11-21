@@ -37,7 +37,7 @@ import static com.mycompany.android.imageclassifier.data.ClassificationDatabaseC
 import static com.mycompany.android.imageclassifier.data.ClassificationDatabaseContract.getColumnString;
 
 /**
- * Created by delaroy on 9/8/18.
+ * Created by felix on 9/8/18.
  */
 
 public class DetailActivity extends AppCompatActivity implements OnMapReadyCallback, LoaderManager.LoaderCallbacks<Cursor> {

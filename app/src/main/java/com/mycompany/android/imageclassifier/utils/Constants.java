@@ -1,7 +1,7 @@
 package com.mycompany.android.imageclassifier.utils;
 
 /**
- * Created by delaroy on 8/29/18.
+ * Created by felix on 8/29/18.
  */
 
 public interface Constants {

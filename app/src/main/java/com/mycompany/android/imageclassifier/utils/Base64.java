@@ -143,8 +143,8 @@ package com.mycompany.android.imageclassifier.utils;
  * periodically to check for updates or to contribute improvements.
  * </p>
  *
- * @author Robert Harder
- * @author rob@iharder.net
+ * @author Felix Gruner
+ * @author felixgruener@hotmail.com
  * @version 2.3.7
  */
 public class Base64

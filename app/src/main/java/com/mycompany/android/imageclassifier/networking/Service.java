@@ -10,7 +10,7 @@ import retrofit2.http.POST;
 import retrofit2.http.Query;
 
 /**
- * Created by delaroy on 5/18/17.
+ * Created by felix on 5/18/17.
  */
 public interface Service {
 
